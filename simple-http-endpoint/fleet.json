@@ -2,9 +2,11 @@
 	"id": "<project-id-here>",
 	"functions": [
 		{
-            "handler": "index.js",
+			"handler": "index.js",
 			"http": {
-				"method": ["GET"],
+				"method": [
+					"GET"
+				],
 				"path": "/my-service"
 			},
 			"name": "simple-http-request"
