@@ -1,0 +1,11 @@
+{
+  "name": "fleet-typescript-http-endpoint",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "author": "fleetfn.com",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^7.0.1",
+    "typescript": "^3.8.3"
+  }
+}

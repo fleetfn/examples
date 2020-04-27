@@ -1,0 +1,15 @@
+{
+	"id": "5e9b3a99c31b30001bbfeb51",
+	"functions": [
+		{
+			"handler": "index.ts",
+			"http": {
+				"method": [
+					"GET"
+				],
+				"path": "/typescript-http-request"
+			},
+			"name": "typescript-http-request"
+		}
+	]
+}
