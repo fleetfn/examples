@@ -1,0 +1,15 @@
+{
+	"id": "<project-id-here>",
+	"functions": [
+		{
+			"handler": "index.js",
+			"http": {
+				"method": [
+					"GET"
+				],
+				"path": "/query"
+			},
+			"name": "graphql-api"
+		}
+	]
+}

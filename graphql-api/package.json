@@ -1,0 +1,10 @@
+{
+  "name": "fleet-graphql-api",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "fleetfn.com",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^15.0.0"
+  }
+}
