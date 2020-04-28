@@ -21,6 +21,6 @@ const schema = new GraphQLSchema({
 
 export default (req, res) => graphql(schema, req.query.query)
     .then(
-        result => res.send(JSON.stringify(result)),
+        result => res.send(result),
         err => res.send(err),
     );
