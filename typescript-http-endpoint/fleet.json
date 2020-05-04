@@ -1,5 +1,4 @@
 {
-	"id": "<project-id-here>",
 	"functions": [
 		{
 			"handler": "index.ts",

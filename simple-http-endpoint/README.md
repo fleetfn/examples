@@ -14,7 +14,7 @@ If you are new here you can deploy your [serverless function](https://fleetfn.co
 $ git clone git@github.com:fleetfn/examples.git && cd examples/simple-http-endpoint
 ```
 
-Change your project id in the `fleet.json` file and implant it directly from your terminal.
+Now just deploy. Enjoy 😉!
 
 ```shell
 $ fleet
