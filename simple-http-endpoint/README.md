@@ -2,6 +2,8 @@
 
 This directory is a brief example of a [Fleet serverless function](https://fleetfn.com/function) that can be invoked via HTTP.
 
+_Live Example: https://examples.runfleet.io/simple-http-endpoint/_
+
 ## Deploy Your Own
 
 If you are new here you can deploy your [serverless function](https://fleetfn.com/function) with Fleet:

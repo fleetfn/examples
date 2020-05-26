@@ -2,6 +2,8 @@
 
 This directory is a brief example of a [Fleet serverless function](https://fleetfn.com/function) with a GraphQL API.
 
+_Live Example: https://examples.runfleet.io/graphql-api/?query={hello}_
+
 ## Deploy Your Own
 
 If you are new here you can deploy your [serverless function](https://fleetfn.com/function) with Fleet:
