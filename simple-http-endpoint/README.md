@@ -8,9 +8,8 @@ _Live Example: https://examples.runfleet.io/simple-http-endpoint/_
 
 If you are new here you can deploy your [serverless function](https://fleetfn.com/function) with Fleet:
 
-- [Request early access](https://fleetfn.com/#request-early-access) to open your account
 - Install [Fleet CLI](https://fleetfn.com/docs/fleet-cli.html)
-- Create a new project
+- [Create a new project in Fleet Console](https://console.fleetfn.com/)
 
 ```shell
 $ git clone git@github.com:fleetfn/examples.git && cd examples/simple-http-endpoint
