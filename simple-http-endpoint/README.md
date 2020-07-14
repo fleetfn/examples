@@ -12,7 +12,7 @@ If you are new here you can deploy your [serverless function](https://fleetfn.co
 - [Create a new project in Fleet Console](https://console.fleetfn.com/)
 
 ```shell
-$ git clone git@github.com:fleetfn/examples.git && cd examples/simple-http-endpoint
+$ fleet init simple-http-endpoint
 ```
 
 Now just deploy. Enjoy 😉!
