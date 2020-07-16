@@ -1,0 +1,14 @@
+{
+	"functions": [
+		{
+			"handler": "index.js",
+			"http": {
+				"method": [
+					"GET"
+				],
+				"path": "/"
+			},
+			"name": "simple-fetch"
+		}
+	]
+}
