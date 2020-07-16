@@ -1,4 +1,5 @@
 [
+    "env-variables",
     "graphql-api",
     "react-ssr",
     "simple-fetch",
