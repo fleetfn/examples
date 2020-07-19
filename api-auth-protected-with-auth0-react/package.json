@@ -1,0 +1,39 @@
+{
+  "name": "fleet-api-auth-protected-with-auth0-react",
+  "version": "0.1.0",
+  "author": "fleetfn.com",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "yarn build && fleet deploy",
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "react-scripts": "^3.4.1"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

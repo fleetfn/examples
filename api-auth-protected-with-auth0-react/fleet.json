@@ -1,0 +1,25 @@
+{
+	"env": {
+		"AUTH0_CLIENT_ID": "<CLIENT_ID>",
+		"AUTH0_CLIENT_PUBLIC_KEY": "<PUBLIC_KEY>",
+		"ASSET_URL": "https://example-s3.com"
+	},
+	"functions": [
+		{
+			"handler": "./api/auth.js",
+			"http": {
+				"method": ["POST", "OPTIONS"],
+				"path": "/api/auth"
+			},
+			"name": "auth"
+		},
+		{
+			"handler": "./api/app.js",
+			"http": {
+				"method": ["GET"],
+				"path": "/:proxy+"
+			},
+			"name": "frontend"
+		}
+	]
+}

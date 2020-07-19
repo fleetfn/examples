@@ -1,4 +1,5 @@
 [
+    "api-auth-protected-with-auth0-react",
     "env-variables",
     "graphql-api",
     "react-ssr",
