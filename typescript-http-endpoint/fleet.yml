@@ -1,0 +1,6 @@
+functions:
+  typescriptHttpRequest:
+    handler: "index.ts"
+    http:
+      method: ["GET"]
+      path: "/typescript-http-request"

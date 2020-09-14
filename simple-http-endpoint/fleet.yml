@@ -1,0 +1,6 @@
+functions:
+  simpleHttpRequest:
+    handler: "index.js"
+    http:
+      method: ["GET"]
+      path: "/my-service"

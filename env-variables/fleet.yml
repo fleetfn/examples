@@ -1,0 +1,9 @@
+env:
+  EMAIL_API_KEY: "KEYEXAMPLE"
+
+functions:
+  envVariables:
+    handler: "index.js"
+    http:
+      method: ["GET"]
+      path: "/"

@@ -1,0 +1,6 @@
+functions:
+  reactSsr:
+    handler: "index.js"
+    http:
+      method: ["GET"]
+      path: "/:proxy+"

@@ -1,0 +1,6 @@
+functions:
+  graphqlApi:
+    handler: "index.js"
+    http:
+      method: ["GET"]
+      path: "/query"
