@@ -11,14 +11,14 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "@babel/preset-react": "^7.9.4",
-    "babel-loader": "^8.1.0",
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
     "react-scripts": "^4.0.3"
   },
   "dependencies": {
-    "@auth0/auth0-react": "^1.0.0",
+    "@auth0/auth0-react": "^1.4.0",
     "jsonwebtoken": "^8.5.1",
     "node-fetch": "^2.6.1",
     "react": "^17.0.2",
