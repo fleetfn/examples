@@ -5,7 +5,7 @@
   "author": "fleetfn.com",
   "license": "MIT",
   "devDependencies": {
-    "ts-loader": "^7.0.1",
+    "ts-loader": "^8.1.0",
     "typescript": "^3.8.3"
   }
 }
