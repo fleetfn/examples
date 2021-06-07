@@ -1,0 +1,13 @@
+{
+  "name": "fleet-function-faunadb",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "fleetfn.com",
+  "license": "MIT",
+  "scripts": {
+    "bootstrap": "node ./scripts/setup-faunadb.js"
+  },
+  "dependencies": {
+    "faunadb": "^4.3.0"
+  }
+}

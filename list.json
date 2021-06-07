@@ -1,6 +1,7 @@
 [
     "api-auth-protected-with-auth0-react",
     "env-variables",
+    "faunadb",
     "graphql-api",
     "react-ssr",
     "simple-fetch",

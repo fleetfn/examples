@@ -1,0 +1,26 @@
+functions:
+  create:
+    handler: "src/create.js"
+    http:
+      method: ["POST"]
+      path: "/todo"
+  delete:
+    handler: "src/delete.js"
+    http:
+      method: ["DELETE"]
+      path: "/todo/:id"
+  getAll:
+    handler: "src/get-all.js"
+    http:
+      method: ["GET"]
+      path: "/todo"
+  get:
+    handler: "src/get.js"
+    http:
+      method: ["GET"]
+      path: "/todo/:id"
+  update:
+    handler: "src/update.js"
+    http:
+      method: ["PUT"]
+      path: "/todo/:id"
