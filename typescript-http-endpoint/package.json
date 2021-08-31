@@ -4,8 +4,7 @@
   "main": "index.ts",
   "author": "fleetfn.com",
   "license": "MIT",
-  "devDependencies": {
-    "ts-loader": "^8.1.0",
-    "typescript": "^3.8.3"
+  "dependencies": {
+    "@fleetfn/types": "^1.0.0-alpha.2"
   }
 }
