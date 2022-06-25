@@ -5,6 +5,6 @@
   "author": "fleetfn.com",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
